@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsortinglibrary.a CMakeFiles/sortinglibrary.dir/src/sorting.cpp.o
+/usr/bin/ranlib libsortinglibrary.a

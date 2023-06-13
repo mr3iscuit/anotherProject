@@ -1,0 +1,6 @@
+/home/biscuit/Documents/anotherProject/build/CMakeFiles/myapp.dir
+/home/biscuit/Documents/anotherProject/build/CMakeFiles/edit_cache.dir
+/home/biscuit/Documents/anotherProject/build/CMakeFiles/rebuild_cache.dir
+/home/biscuit/Documents/anotherProject/build/sortinglibrary/CMakeFiles/sortinglibrary.dir
+/home/biscuit/Documents/anotherProject/build/sortinglibrary/CMakeFiles/edit_cache.dir
+/home/biscuit/Documents/anotherProject/build/sortinglibrary/CMakeFiles/rebuild_cache.dir
